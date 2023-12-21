@@ -12,4 +12,4 @@ My insight into this week's task is to change WordPress through vscode. I think 
 Career/Employability/Learning Insights
 This week I learned a few more techniques about editing WordPress that I think will be very useful in the future.
 
-NOTE: the screenshot of process In Prac05.docx
+NOTE: the screenshot of process In Liu yuxuan.docx
